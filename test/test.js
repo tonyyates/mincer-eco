@@ -12,6 +12,5 @@ if (compiledAsset.indexOf('<div>') > 0) {
   console.log('OK');
 } else {
   console.error('Failed to compile ECO');
-  console.log(compiledAsset);
   process.exit(1);
 }
