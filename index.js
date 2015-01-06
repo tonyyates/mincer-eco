@@ -12,6 +12,7 @@ module.exports = function addEcoEngine(Mincer, eco) {
 	require('util').inherits(EcoEngine, Mincer.Template);
 
 	EcoEngine.prototype.evaluate = function evaluate(context, locals) {
+		//call the function within eco module to compile the data
 		this.data = eco.precompile(this.data);
 	};
 

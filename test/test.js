@@ -8,6 +8,7 @@ env.appendPath(__dirname + '/fixtures');
 
 var compiledAsset = env.findAsset('example').toString();
 
+//make sure our example.js.eco created a <div> for us
 if (compiledAsset.indexOf('<div>') > 0) {
   console.log('OK');
 } else {
