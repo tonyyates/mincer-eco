@@ -1,0 +1,37 @@
+{
+  "name": "mincer-eco",
+  "version": "0.0.0",
+  "description": "ECO engine for Mincer",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tonyyates/mincer-eco.git"
+  },
+  "keywords": [
+    "mincer",
+    "mincer-contrib",
+    "assets",
+    "pipeline",
+    "eco",
+    "react",
+    "compile"
+  ],
+  "author": "Tony Yates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonyyates/mincer-eco/issues"
+  },
+  "homepage": "https://github.com/tonyyates/mincer-eco",
+  "peerDependencies": {
+    "mincer": "~1.2"
+  },
+  "devDependencies": {
+    "mincer": "^1.2.2"
+  },
+  "dependencies": {
+    "eco": "^1.1.0-rc-3"
+  }
+}
