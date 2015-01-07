@@ -14,7 +14,7 @@ or add `mincer-eco` to your `package.json`:
 
 ```json
 "dependencies": {
-  "mincer-eco": "0.0.4"
+  "mincer-eco": "0.0.5"
 }
 ```
 
