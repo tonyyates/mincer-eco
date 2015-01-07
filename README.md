@@ -14,7 +14,7 @@ or add `mincer-eco` to your `package.json`:
 
 ```json
 "dependencies": {
-  "mincer-eco": "0.0.1"
+  "mincer-eco": "0.0.4"
 }
 ```
 
@@ -43,7 +43,8 @@ $ npm test
 
 The MIT License (MIT)
 
-Copyright © 2014 Tony Yates <tony.yates@gmail.com>
+Copyright © 2014 Alex Kotliarskyi alex.frantic@gmail.com
+Copyright © 2015 Tony Yates <tony.yates@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
