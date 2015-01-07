@@ -1,6 +1,6 @@
 {
   "name": "mincer-eco",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ECO engine for Mincer",
   "main": "index.js",
   "scripts": {
