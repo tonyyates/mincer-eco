@@ -37,7 +37,9 @@ $ npm install --development
 $ npm test
 ```
 
-## Attribution Alex Kotliarskyi <alex.frantic@gmail.com> who provided [Mincer JSX](https://github.com/frantic/mincer-jsx) which this work was based upon
+## Attribution 
+
+Alex Kotliarskyi <alex.frantic@gmail.com> who provided [Mincer JSX](https://github.com/frantic/mincer-jsx) which this work was based upon
 
 ## License
 
