@@ -24,13 +24,10 @@
     "url": "https://github.com/tonyyates/mincer-eco/issues"
   },
   "homepage": "https://github.com/tonyyates/mincer-eco",
-  "peerDependencies": {
-    "mincer": "~1.2"
-  },
-  "devDependencies": {
-    "mincer": "^1.2.2"
-  },
+  "peerDependencies": {},
+  "devDependencies": {},
   "dependencies": {
-    "eco": "^1.1.0-rc-3"
+    "eco": "^1.1.0-rc-3",
+    "mincer": "^1.4.1"
   }
 }
